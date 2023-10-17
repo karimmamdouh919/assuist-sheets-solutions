@@ -1,18 +1,6 @@
+
+
 #include <bits/stdc++.h>
-
-using namespace std;
-
-int main()
-{
-
-    cout << 3%4;
-
-
-}
-
-
-
-/*#include <bits/stdc++.h>
 using namespace std;
 
 long long GCD(long long a, long long b)
@@ -36,6 +24,6 @@ int main()
 long long a,b;
 cin >> a >> b;
 cout << GCD(a,b) << ' ' << LCM(a,b);
-}*/
+}
 
 
